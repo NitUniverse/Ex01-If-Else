@@ -1,4 +1,3 @@
 # Exercício 2 - if/else
 
-Para criar uma versão generativa do quadro original, decidi que as cores se alterassem mantendo, no entanto, a estrutura das três cores primárias.
-Desse modo, criei uma variável que variasse entre 3 valores. Por cada valor, uma disposição diferente de cores era aplicada.
+O exercício propunha a criação de um código criativo que utilizasse instâncias de "if" e "else". Para esse efeito, criei uma visualização do jogo "pong" que se dividia em 4 fases. Em cada uma dessas fazes, bola deslocava-se para um canto do ecrã e os jogadores acompanhavam. O código lê em qual das fases se encontra e desloca os jogadores e a bola consoante o mesmo.
